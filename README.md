@@ -1,8 +1,51 @@
 ### Welcome to my Portfolio
 
-#### About me
+Hi visitor, this is my portfolio.
 
-#### Code challenges projects
- * [Adidas](https://github.com/therealandroid/adidas-code-challenge-android-master)
+### About me
+ * I am a Software Engineer passionate about mobile development, Coffe and Dota 2.
+ 
+ ### Published apps
+ * [My Mixtapez - Android](https://play.google.com/store/apps/details?id=my.googlemusic.play)
 
-#### Personal projects
+
+### Code challenges
+ * [Adidas code challenge](https://github.com/therealandroid/adidas-code-challenge-android-master)
+
+### Android Projects
+
+ - [Sqlite Model Mapper](https://github.com/therealandroid/SqliteModelMapper) 
+
+    *Description:* 
+    *Language:* `Java`
+
+ - [Mentions](https://github.com/therealandroid/Mentions)
+
+    *Description:* 
+    *Language:* `Java`
+
+ - [Header and Footer Adapter](https://github.com/therealandroid/HeaderFooterAdapter/blob/master/README.md)
+ 
+     *Description:* 
+     *Language:* `Java`
+
+ - [Header and Footer Adapter Sample](https://github.com/therealandroid/HeaderFooterAdapter/blob/master/README.md)
+ 
+     *Description:*
+     *Language:* `Java`
+
+ - [Sqlite Table Generator](https://github.com/therealandroid/SqliteTableGenerator)
+ 
+     *Description:* 
+     *Language:* `Java`
+
+ - [Unit tests using Room Database](UnityTests-Room-Database)
+ 
+     *Description:* 
+     *Language:* `Kotlin`
+
+ - [My Doctor](https://github.com/therealandroid/MyDoctor)
+ 
+     *Description:* 
+     *Language:* `Java`
+     
