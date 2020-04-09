@@ -1,9 +1,46 @@
 body {
     margin:0 auto;
-    max-width: 1280px;
-    background-color: blanchedalmond;
+    max-width: 1024px;
 }
 
-.title{
+.container {
+    margin-top:30px;
+}
+
+.col {
+    
+}
+
+.title {
     color: brown;
 }
+
+.horizontal-divider {
+    border: solid 1px dimgrey;
+}
+
+.vertical-divider {
+    width:1px;
+    border: solid 1px dimgrey;
+    height:100%;    
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    margin:0 auto;
+}
+
+.statement{
+    margin-bottom: 20px;
+}
+
+.indicator-year {
+    width:80px;
+    height:80px;
+    background-color:cadetblue;
+    border-radius: 50%; 
+    padding: 16px; 
+    text-align: center;
+    margin:0 auto;
+}
+
